@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 85.785%;
+  width: 85.840%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 6.304%;
+  width: 6.280%;
 " class="progress-item"></span><span style="
   background-color: #3A4E3A; 
-  width: 3.769%;
+  width: 3.754%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 2.620%;
+  width: 2.607%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.644%;
+  width: 0.645%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 0.391%;
+  width: 0.390%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 0.166%;
+  width: 0.165%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.092%;
+  width: 0.091%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.089%;
@@ -206,7 +206,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">85.78%</span>
+  <span class="percent">85.84%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -222,7 +222,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">6.30%</span>
+  <span class="percent">6.28%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -238,7 +238,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Cuda</span>
-  <span class="percent">3.77%</span>
+  <span class="percent">3.75%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -254,7 +254,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">2.62%</span>
+  <span class="percent">2.61%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
